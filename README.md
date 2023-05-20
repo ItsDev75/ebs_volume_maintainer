@@ -2,9 +2,10 @@
 
 
 1. Create lambda_fun.py using python boto3 and create new role.
-<div align="center">
-    <img src="https://drive.google.com/file/d/1uHBU4dhXdiVYbNOY_NoK5kV_Wr73sKSH/view?usp=share_link" alt="Description of the image" style="max-width: 100%; height: auto;" />
-</div>
+#<div align="center">
+ #   <img src="https://drive.google.com/file/d/1uHBU4dhXdiVYbNOY_NoK5kV_Wr73sKSH/view?usp=share_link" alt="Description of the image" style="max-#width: 100%; height: auto;" />
+#</div>
+![Screenshot](https://github.com/ItsDev75/EBS_VOLUME_MAINTAINER/assets/80349641/b0909a5e-2a25-4e3c-bded-2447ac930f49)
 
  
 2. Create Event rule in AWS CloudWatch.
