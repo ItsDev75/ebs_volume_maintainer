@@ -2,6 +2,7 @@
 
 
 1. Create lambda_fun.py using python boto3 and create new role.
+Inside lambda function 
 ![Screenshot](https://github.com/ItsDev75/EBS_VOLUME_MAINTAINER/assets/80349641/b0909a5e-2a25-4e3c-bded-2447ac930f49)
 
  
