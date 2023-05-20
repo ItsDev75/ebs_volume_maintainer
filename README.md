@@ -1,5 +1,6 @@
 # Event-Driven Architecture for maintaing companies policy for only using EBS volume 'gp3' using for LambdaFunction and CloudWatch, IAM !
 
+Video link for steps:- https://www.linkedin.com/in/dev-saini75/
 
 1. Create lambda_fun.py using python boto3 and create new role.
 
