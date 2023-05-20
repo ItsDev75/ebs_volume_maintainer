@@ -2,15 +2,10 @@
 
 
 1. Create lambda_fun.py using python boto3 and create new role.
-<style>
-    .responsive-image {
-        max-width: 100%;
-        height: auto;
-    }
-</style>
-<p>
-    <img src="img/Screenshot.png" width="960" height="540" />
-</p>
+<div align="center">
+    <img src="img/Screenshot.png" alt="Description of the image" style="max-width: 100%; height: auto;" />
+</div>
+
  
 2. Create Event rule in AWS CloudWatch.
 # Event Pattern:-  
