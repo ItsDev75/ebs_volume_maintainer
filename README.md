@@ -2,7 +2,7 @@
 
 
 1. Create lambda_fun.py using python boto3 and create new role.
-![](screenshot.png)
+![screenshot](screenshot.png)
  
 2. Create Event rule in AWS CloudWatch.
 # Event Pattern:-  
