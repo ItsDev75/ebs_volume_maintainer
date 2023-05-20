@@ -6,6 +6,8 @@
 Inside lambda function create role as in image.
 
 ![Screenshot](https://github.com/ItsDev75/EBS_VOLUME_MAINTAINER/assets/80349641/b0909a5e-2a25-4e3c-bded-2447ac930f49)
+
+Role created "ebs_vol_check-role-c8edb2k1"
  
 2. Create Event rule in AWS CloudWatch.
 # Event Pattern:-  
