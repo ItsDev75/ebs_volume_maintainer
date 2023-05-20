@@ -3,7 +3,7 @@
 
 1. Create lambda_fun.py using python boto3 and create new role.
 <div align="center">
-    <img src="https://drive.google.com/file/d/1uHBU4dhXdiVYbNOY_NoK5kV_Wr73sKSH/view?usp=sharing" alt="Description of the image" style="max-width: 100%; height: auto;" />
+    <img src="https://drive.google.com/file/d/1uHBU4dhXdiVYbNOY_NoK5kV_Wr73sKSH/view?usp=share_link" alt="Description of the image" style="max-width: 100%; height: auto;" />
 </div>
 
  
